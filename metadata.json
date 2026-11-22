@@ -1,0 +1,6 @@
+{
+  "name": "Školski Um",
+  "description": "Neovisno digitalno središte za školsku administraciju: pravni okviri, AI generator Word obrazaca i PPTX izvješća uz potpunu lokalnu zaštitu podataka učenika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

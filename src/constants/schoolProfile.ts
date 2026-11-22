@@ -1,0 +1,27 @@
+export const SCHOOL_PROFILE = {
+  name: 'Gimnazija Antuna Vrančića Šibenik',
+  shortName: 'GAV Šibenik',
+  address: 'Put Gimnazije 64, 22000 Šibenik',
+  fullHeaderName: 'Gimnazija Antuna Vrančića, Put Gimnazije 64, 22000 Šibenik',
+  oib: '26870999432',
+  maticniBroj: '3875903',
+  sifraSkole: '15-081-506',
+  principal: 'Ivan Knežević, prof.',
+  phoneSecretariat: '022/213-276',
+  phonePrincipal: '022/216-420',
+  emailGeneral: 'gimnazija@gav.hr',
+  emailPrincipal: 'ravnatelj@gav.hr',
+  emailQuestions: 'pitanja@gav.hr',
+  website: 'https://gav.hr/',
+  studentCountApprox: 'oko 550 učenika (~24 razredna odjela)',
+  staffCountApprox: '~50 nastavnika i stručnih suradnika',
+  programs: [
+    'Opća gimnazija',
+    'Jezična gimnazija',
+    'Prirodoslovno-matematička gimnazija',
+    'Prirodoslovna gimnazija',
+    'Klasična gimnazija',
+  ],
+  officialWordHeader:
+    'GIMNAZIJA ANTUNA VRANČIĆA ŠIBENIK\nPut Gimnazije 64, 22000 Šibenik\nOIB: 26870999432 · MB: 3875903 · Šifra škole: 15-081-506\nTel: 022/213-276 · E-mail: gimnazija@gav.hr · Web: https://gav.hr/',
+};
